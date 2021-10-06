@@ -1,6 +1,6 @@
 Proiectul reprezinta un admin panel realizat in react
 
-##Functionalitati:
+## Functionalitati:
 
 -Adaugarea de useri
 
