@@ -1,0 +1,12 @@
+#addUsers {
+    font-style: italic;
+}
+
+.user-add-form {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        align-content: space-around;
+        justify-content: space-between;
+        align-items: center;
+}
